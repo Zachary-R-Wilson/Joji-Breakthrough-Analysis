@@ -7,6 +7,8 @@ chromedriver.exe
 client.py
 node_modules/
 
+music_data/
+
 # C extensions
 *.so
 
