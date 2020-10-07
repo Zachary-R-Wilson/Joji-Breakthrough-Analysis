@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 chromedriver.exe
-client.py
+keys.py
 node_modules/
 
 music_data/
