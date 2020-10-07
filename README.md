@@ -1,2 +1,3 @@
-# Musical_Analysis
-Looking into how musicians made their biggest break through into their genre
+# <a href="https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ"> Joji<a>
+
+
