@@ -23,3 +23,6 @@ The Data was collected using the YouTube Api and Python 3.6. Bringing the data t
 
 If one would be interested in trying this themselves, there are comments throughout the code explaining what is going on. Getting the album ids was done manually to save time and reduce Api calls. These ids can be found at the end of the album link; they follow the <br> *?list=*. For example, the link to Joji’s newest album *Nectar* is: *https://www.youtube.com/playlist?list=OLAK5uy_nq9PSQZCORK_TXwQuv6OL6pFIR_JuMfNM*.
 The id for this link is: *OLAK5uy_nq9PSQZCORK_TXwQuv6OL6pFIR_JuMfNM*, which, as previously stated, follows after the *?list=*.
+<br>
+<br>
+**Link to the public Tableau page:** [Joji Breakthrough](https://public.tableau.com/profile/zachary.wilson8720#!/vizhome/JojiBreakthrough/Views?publish=yes)
