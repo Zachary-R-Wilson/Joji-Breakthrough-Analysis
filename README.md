@@ -1,4 +1,4 @@
-# [Joji](https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ)
+# [Joji Breakthrough Analysis](https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ)
 
 George Miller, also known as Joji, is a Japanese songwriter and singer. Releasing his first album, *In Tongues*, on November 3rd 2017, Joji would start to find success with “Will He.” Quoting a post on Joji's [instagram](https://genius.com/Joji-will-he-lyrics), “it’s a favorite song of mine that I am overjoyed to share with you," "Luckily, this is only the beginning of everything.” Joji was correct, this was just the start to his career as an artist, and things could only get better from there. “Will He” is arguably one of his best songs early on and a big contribution to his success.
 <br>
