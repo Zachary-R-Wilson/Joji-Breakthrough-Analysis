@@ -14,6 +14,8 @@ However, this is not the end of Joji’s story. While he was busy working on *Mi
 <br>
 In conclusion, Joji has seen rapid success and growth in the past several years. His growth and popularity aren’t determined by one song alone, but by his passion to create music and improve. His most popular song so far is “Slow Dancing In The Dark,” one that most definitely caused his biggest breakthrough in media. However, it is important to keep in mind that “Will He” brought Joji success early on. Without these two hits Joji would not top R&B charts, and would not be the same artist he is known as now.
 <br>
+![total Views](/images/Total_Views.PNG)
+<br>
 <br>
 # The Project
 The Data was collected using the YouTube Api and Python 3.6. Bringing the data to life, a Tableau page was created, visualizing the data. The Python libraries used are as follows: 
