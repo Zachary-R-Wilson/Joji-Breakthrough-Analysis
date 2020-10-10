@@ -1,4 +1,4 @@
-# <a href="https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ"> Joji<a>
+# [Joji](https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ)
 
 George Miller, also known as Joji, is a Japanese songwriter and singer. Releasing his first album, “ In Tongues”, on November 3rd 2017, Joji would start to find success with “Will He.” Restating a quote from Joji on instagram, “it’s a favorite song of mine that I am overjoyed to share with you. Luckily, this is only the beginning of everything.” Joji was correct, this was just the start to his career as an artist, and things could only get better from there. “Will He” is arguably one of his best songs early on and a big contribution to his success.
 <br>
@@ -13,3 +13,13 @@ However, this is not the end of Joji’s story. While he was busy working on “
 ![Nectar](/images/Nectar.PNG)
 <br>
 In conclusion, Joji has seen rapid success and growth in the past several years. His growth and popularity aren’t determined by one song alone, but by his passion to create music and improve. His most popular song so far is “Slow Dancing In The Dark,” one that most definitely caused his biggest breakthrough in media. However, it is important to keep in mind that “Will He” brought Joji success early on. Without these two hits Joji would not top R&B charts, and would not be the same lyricist he is known as now.
+<br>
+<br>
+# The Project
+The Data was collected using the YouTube Api and Python 3.6. Bringing the data to life, a Tableau page was created, visualizing the data. The Python libraries used are as follows: 
+* youtube_api - a wrapper for the YouTube Api
+* Pandas - to easily export the data and to create a master document
+* time - to space out my Api calls
+
+If one would be interested in trying this themselves, there are comments throughout the code explaining what is going on. Getting the album ids was done manually to save time and reduce Api calls. These ids can be found at the end of the album link; they follow the <br> *?list=*. For example, the link to Joji’s newest album “Nectar” is: *https://www.youtube.com/playlist?list=OLAK5uy_nq9PSQZCORK_TXwQuv6OL6pFIR_JuMfNM*.
+The id for this link is: *OLAK5uy_nq9PSQZCORK_TXwQuv6OL6pFIR_JuMfNM*, which, as previously stated, follows after the *?list=*.
